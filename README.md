@@ -58,16 +58,21 @@ This project is ideal for:
 ## Sample Visuals
 
 - **Haploid vs Diploid Selection:**
-  ![Diploid vs Haploid](haploid_vs_diploid.png)
+  
+  <img src="Haploid vs Diploid Selection.png" width="900">
 
 - **Genetic Drift in Different Pop Sizes:**
-  ![Genetic Drift](genetic_drift.png)
+  
+  <img src="Genetic Drift in Different Pop Sizes.png" width="900" hight="1800">
 
 - **Drift + Selection:**
-  ![Drift Selection Interaction](drift_selection.png)
+  
+  <img src="Drift + Selection.png" width="900">
 
 - **Heterozygote Advantage/Disadvantage:**
-  ![Heterozygote Fitness](heterozygote_dynamics.png)
+  
+  <img src="Heterozygote Advantage.png" width="900">
+  <img src="Heterozygote Disadvantage.png" width="900">
 
 ## License
 
